@@ -1,4 +1,4 @@
-# Book Summary — Permanent Reference
+# Book Summary
 
 ## Book Title
 A Philosophy of Software Desing
