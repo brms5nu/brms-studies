@@ -9,6 +9,9 @@ _Not filled_
 ## Date Finished
 _Not filled_
 
+## Contents
+_Not filled_
+
 ## Core Argument
 _Not filled_
 
