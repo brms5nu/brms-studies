@@ -2,8 +2,6 @@
 
 42-week reading plan (April 2026 - January 2027) aligned to software engineer growth dimensions.
 
-**Full spec:** [Study Plan](~/.claude/brms-projects/specs/study/2026-04-06-ic5-study-plan-design.md)
-**Career roadmap:** [Career Growth Roadmap](~/.claude/docs/career-roadmap-2026.md)
 
 ## Current Phase
 
